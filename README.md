@@ -1,4 +1,5 @@
 # git_test
 
 Hello Odin!
-Hola sot Brian
+Hola soy Brian
+Estoy en una rama distinta
